@@ -120,7 +120,7 @@ a#login {
     font-size: .8rem;
     font-weight: 400;
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: inherit;
     text-align: center;
     margin-top: 2rem;
     white-space: nowrap;
