@@ -12,6 +12,7 @@ body {
     flex-direction: column;
     height: 100vh;
 }
+
 .main-box {
     background-color: #062863;
     /*background-image: url(/images/top-left.png), url(/images/top-right.png), url(/images/bottom-left.png), url(/images/bottom-right.png);*/
